@@ -1,0 +1,33 @@
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\appsettings.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CSV - Reader.staticwebassets.runtime.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CSV - Reader.exe
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CSV - Reader.deps.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CSV - Reader.runtimeconfig.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CSV - Reader.dll
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CSV - Reader.pdb
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.csproj.AssemblyReference.cache
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.AssemblyInfoInputs.cache
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.AssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.csproj.CoreCompileInputs.cache
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.RazorAssemblyInfo.cache
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.RazorAssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets\msbuild.CSV - Reader.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets\msbuild.build.CSV - Reader.props
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CSV - Reader.props
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CSV - Reader.props
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\scopedcss\bundle\CSV - Reader.styles.css
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\scopedcss\projectbundle\CSV - Reader.bundle.scp.css
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.csproj.CopyComplete
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.dll
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\refint\CSV - Reader.dll
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.pdb
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\CSV - Reader.genruntimeconfig.cache
+C:\Users\fusion\Documents\GitHub\CSV---Reader\CSV - Reader\CSV - Reader\obj\Debug\net6.0\ref\CSV - Reader.dll

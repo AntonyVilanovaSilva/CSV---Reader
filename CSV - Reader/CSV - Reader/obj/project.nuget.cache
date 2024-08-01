@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9GGDathYSphZ7ElJOZ98/FywXFwfXA/yyl5yH9XsvBU14CjbcP4lj25PqZfq35CLKR+CpSTH8XUGbv0vMDHxiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fusion\\Documents\\GitHub\\CSV---Reader\\CSV - Reader\\CSV - Reader\\CSV - Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fusion\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
